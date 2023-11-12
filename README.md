@@ -20,7 +20,7 @@
 
 ## if you want the older router syntax
 
-- [React Router 6.4 with browserRouter](https://github.com/edwardtanguay/vite-react-menu-createbrowserrouter)
+- [React Router 6.4 with browserRouter](https://github.com/edwardtanguay/vite-react-menu-browserrouter)
 
 ## if you want a site without a menu
 
