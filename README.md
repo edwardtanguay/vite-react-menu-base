@@ -18,7 +18,7 @@
 - `npm i`
 - `npm run dev`
 
-## if you want the older router version
+## if you want the older router syntax
 
 - [React Router 6.4 with browserRouter](https://github.com/edwardtanguay/vite-react-menu-createbrowserrouter)
 
