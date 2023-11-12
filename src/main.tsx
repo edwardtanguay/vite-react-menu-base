@@ -2,9 +2,9 @@ import ReactDOM from "react-dom/client";
 import App from "./App.tsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./index.scss";
-import { Welcome } from "./pages/Welcome.tsx";
-import { Info } from "./pages/Info.tsx";
-import { About } from "./pages/About.tsx";
+import { PageWelcome } from "./pages/PageWelcome.tsx";
+import { PageInfo } from "./pages/PageInfo.tsx";
+import { PageAbout } from "./pages/PageAbout.tsx";
 
 const router = createBrowserRouter([
 	{
@@ -13,15 +13,15 @@ const router = createBrowserRouter([
 		children: [
 			{
 				path: '/',
-				element: <Welcome />,
+				element: <PageWelcome />,
 			},
 			{
 				path: 'info',
-				element: <Info />,
+				element: <PageInfo />,
 			},
 			{
 				path: 'about',
-				element: <About />,
+				element: <PageAbout />,
 			},
 		],
 	},
