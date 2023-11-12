@@ -4,6 +4,7 @@
 
 - Vite
 - React
+- React Router 6.4 with createBrowserRouter
 - TypeScript
 - Sass
 - Tailwind
