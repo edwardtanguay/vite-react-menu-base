@@ -18,6 +18,10 @@
 - `npm i`
 - `npm run dev`
 
+## if you want this site with useContext implemented
+
+- [React Router 6.4 with browserRouter with Context](https://github.com/edwardtanguay/vite-react-menu-createbrowserrouter-context)
+
 ## if you want the older router syntax
 
 - [React Router 6.4 with browserRouter](https://github.com/edwardtanguay/vite-react-menu-browserrouter)
